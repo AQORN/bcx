@@ -1,7 +1,7 @@
 # BCX
 A learning experiment in creating crypto exchange platform. Steps below explain what to doto setup and why certain deciions re being made.
 
-## NOT COMPLETE BUT UNCTIONAL
+## NOT COMPLETE BUT FUNCTIONAL
 
 Make python script executable:
 1.		Touch file, create header, set perms and add soft link
