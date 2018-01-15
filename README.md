@@ -5,7 +5,7 @@ A learning experiment in creating crypto exchange platform. Steps below explain 
 
 ### Make python script executable:
 Touch file, create header, set perms and add soft link
-	$ cat > /etc/bcx/whatever.py
+1.	$ cat > /etc/bcx/whatever.py
 	#!/usr/bin/python3	
 	print "Hello World!"	
 	$ chmod u+x /etc/bcx/whatever.py
