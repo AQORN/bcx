@@ -178,9 +178,9 @@ Retrieving all values for one Time Series entry
 
 **Component structure:**
 
-    +--------+         +---------+
-    | SERVER |---------| web_app |
-    +--------+         +---------+
+    +--------+         +---------+         +-----+
+    | SERVER |<--API-->| web_app |<--API-->| PHP |
+    +--------+         +---------+         +-----+
       |    |                |
      SUB   RW               R
       |    |                |
