@@ -1,6 +1,6 @@
 BCX
 ===
-BCX stands for "BitCoin eXchange". This name will obviously have to change if this is ever used publicaly but for now it is what it is.
+BCX stands for "BitCoin eXchange". This name will obviously have to change if this is ever used publicly but for now it is what it is.
 
 Design decisions and build steps:
 -----------------------------------------------------
